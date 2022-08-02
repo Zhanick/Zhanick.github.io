@@ -1,0 +1,104 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.mt-11 {
+  margin-top: 11px;
+}
+
+.mt-115 {
+  margin-top: 115px;
+}
+
+.mr-39 {
+  margin-right: 39px;
+}
+
+.mr-29 {
+  margin-right: 29px;
+}
+
+.pl-r-208 {
+  padding: 0 208px;
+}
+
+.flex {
+  display: flex;
+}
+
+.jc-c {
+  justify-content: center;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
+.jc-sa {
+  justify-content: space-around;
+}
+
+.m-35-208 {
+  margin: 2% 10% 0;
+}
+
+.m-lr-208 {
+  margin: 0 10%;
+}
+
+.ml-10deg {
+  margin-left: 10%;
+}
+
+.mt-230 {
+  margin-top: 230px;
+}
+
+.rel {
+  position: relative;
+}
+
+.jc-e {
+  justify-content: end;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.ml-208 {
+  margin-left: 40%;
+}
+
+.mr-208 {
+  margin-right: 40%;
+}
+
+.mt-88 {
+  margin-top: 88px;
+}
+
+.fd-c {
+  flex-direction: column;
+}
+
+.f-row {
+  flex-direction: row;
+}
+
+.mr-10deg {
+  margin-right: 10%;
+}
